@@ -1,6 +1,8 @@
 # dotfiles
 My arch linux dotfiles (also includes my backgrounds)
 
+**i3-gaps needed**
+
 **requires install *feh* for wallpaper**
 
 # Backgrounds
